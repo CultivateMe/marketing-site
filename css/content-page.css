@@ -35,6 +35,12 @@ body { padding-top: 100px; background-color: #EEC258;}
 	color: #FC6D44;
 }
 
+.navItem.centered {
+	float: none;
+	display: table;
+	margin: 0 auto;
+}
+
 .selected {
 	color: #FC6D44;
 	text-decoration: underline;
